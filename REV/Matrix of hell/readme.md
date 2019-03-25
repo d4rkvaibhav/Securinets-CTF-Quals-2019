@@ -15,8 +15,7 @@ There is a line in decompiled code
 which means that there is an array named DAT_00302140 and "* (int * )(&DAT_00302140 + ((long)local_2c * 6 + (long)local_28) * 4)" is equivalent to :
 	
 	DAT_00302140[((local_2c*6) +local_28)*4]=local_24 + 0x41;
-
-
+Continuing to code:
 
 	local_24 = 0;
 	local_2c = 0;
@@ -36,7 +35,7 @@ which means that there is an array named DAT_00302140 and "* (int * )(&DAT_00302
     local_2c = local_2c + 1;
 	}
 
-so the array is intitialised now and then moving forward the code asks for the password (varibale name : DAT_003020a0).
+So the array is intitialised now and then moving forward the code asks for the password (varibale name : DAT_003020a0).
 
 i will use inp instead of DAT_003020a0 variable name.
 
