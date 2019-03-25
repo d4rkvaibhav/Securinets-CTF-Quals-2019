@@ -39,7 +39,7 @@ So the array is intitialised now and then moving forward the code asks for the p
 
 i will use inp instead of DAT_003020a0 variable name.
 
-It is  now check if len(inp)== 14 , So our input len should be 14.
+It is now checking if len(inp)== 14 , So our input len should be 14.
 
 Now again we have 3 while loop in the code :
 
